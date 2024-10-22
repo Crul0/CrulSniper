@@ -7,3 +7,8 @@ You will have to enter the persons username and then it'll scan through the sele
 # How it works
 The way this works is by grabbing the players avatar profile picture and scanning through all the selected games servers. 
 Depending on how big the game is it can take a long time for it to scan.
+
+# Copyright
+
+Fully coded by me using roblox api and a older sniper that doesn't work anymore.
+You may edit this code but will have to give me credit if so.
